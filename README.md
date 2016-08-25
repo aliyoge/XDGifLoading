@@ -17,6 +17,7 @@
 + (void)setGifWithURL:(NSURL *)gifUrl;
 
 @end
+```
 ###使用方法
 ```Objective-C
 //show
